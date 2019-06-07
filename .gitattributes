@@ -1,1 +1,1 @@
-config.yml filter=updatepassword
+*.yml filter=gitignore

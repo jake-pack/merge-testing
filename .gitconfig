@@ -1,2 +1,2 @@
-git config --global filter.updatepassword.clean "sed '/^dev/'d"
-git config --global filter.updatepassword.smudge cat
+$ git config --global filter.gitignore.clean "sed '/#gitignore$/'d"
+$ git config --global filter.gitignore.smudge cat
