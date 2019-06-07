@@ -1,0 +1,1 @@
+git config --global filter.updatepassword.clean "sed 's/password:$/password: {password}'"
